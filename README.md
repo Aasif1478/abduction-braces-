@@ -66,6 +66,8 @@ To address compliance issues, sensors are integrated into the brace:
 
 ## 👤 Author
 **Aasif Mehmood S**  
+**Tarunika Manoranjan** 
+**Deva Ganesh** 
 Biomedical Engineering  
 SRM Institute of Science and Technology  
 
